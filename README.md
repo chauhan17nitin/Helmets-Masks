@@ -31,21 +31,21 @@ Surely this should be changed on the basis of real world application of model. O
 
 # Results Example
 **Image**
-![alt text](test_image.jpg)
+![alt text](pictures/test_image.jpg)
 **Result**
-![alt text](example1.png)
+![alt text](pictures/example1.png)
 **Image**
-![alt text](31.jpg)
+![alt text](pictures/31.jpg)
 **Result**
-![alt text](example3.png)
+![alt text](pictures/example3.png)
 **Image**
-![alt text](26.jpg)
+![alt text](pictures/26.jpg)
 **Result**
-![alt text](example2.png)
+![alt text](pictures/example2.png)
 **Image**
 
-![alt text](92.jpg)
+![alt text](pictures/92.jpg)
 
 **Result**
 
-![alt text](example4.png)
+![alt text](pictures/example4.png)
