@@ -1,7 +1,7 @@
 # Helmets-Masks
 Using Object Detection and Classification for security at construction sites
 
-The main file for object detection and classification is Integration_yolo&NN_models.ipynb. Final integration is done in that-
+The main file for object detection and classification is [Integration_yolo&NN_models.ipynb](https://github.com/hammer1234567/Helmets-Masks/blob/master/Integrating_yolo%26NN_models.ipynb). Final integration is done in that-
 
 1. Retrained YoloV3 model is used to detect heads in images
 2. Two neural network models trained for mask and helmet detection are used.
